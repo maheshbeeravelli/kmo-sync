@@ -356,6 +356,9 @@ div.fb-like
 {
   left: -8px;
 }
+.social-media{
+	min-height:25px;
+}
 .social-media div{
   float:right;
 }
@@ -365,7 +368,7 @@ div.fb-like
 }
 .kyo_gplus{
   width: 60px;
-  margin-right: 10px;
+  margin-right: 15px;
 }
 
 a.clrWhite{
