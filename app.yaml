@@ -1,4 +1,4 @@
-application: knowmyoffers
+application: kyo-uat
 version: desktop
 runtime: python27
 threadsafe: true
